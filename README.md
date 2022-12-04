@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/6382986/205470645-f51435fc-90e6-42dd-aebb-1fb86df21cea.png" width="380">
+
 # BYTE BAKERS - app & game makers
 
 Hello! You just reached _the Byte Bakers_ README file, bravo! 🎉 
@@ -6,6 +8,6 @@ We are a team of few professionals people working into the digital sector for ma
 
 We want to provide nice products, we control the quality and put the _Cool Factor_ at its best. We hope that you'll enjoy working with us 🤩
 
-For all questions/inquiries, please contact us at hello@bytebakers.app.
+For all questions/inquiries, please contact us at [hello@bytebakers.app](hello@bytebakers.app).
 
-If you want more informations you should go to the company's website: https://bytebakers.app.
+If you want more informations you should go to the company's website: [byteBakers.app](https://bytebakers.app).
